@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: lightgrey;
+}
+
+.underline {
+    border: 0.5px solid lightgray;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
